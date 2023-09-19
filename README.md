@@ -2,6 +2,10 @@
 
 Sentiment analysis library for russian language
 
+# Changes
+
+Variant with fasttext-wheel instead of fasttext
+
 ## Install
 
 Please note that `Dostoevsky` supports only Python 3.7+ on both Linux and Windows
